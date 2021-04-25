@@ -10,7 +10,7 @@ The below instructions can be followed to deploy a java app on dockerhub, provid
 
 ### Running locally
 
-1. docker build command is used to create the container image to install dependencies in the docker file and the app itself. 
+1. docker build command is used to create the container image and to install dependencies indicated in the docker file. 
 ![image](https://user-images.githubusercontent.com/26891940/115989425-93626300-a5be-11eb-81e8-a02fef56f5a0.png)
 
 2. Run the docker containing the java app.
