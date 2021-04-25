@@ -20,6 +20,6 @@ The below instructions can be followed to deploy a java app on dockerhub, provid
 
 ### Running from dockerhub
 
-1. Pull the repo from dockerhub as it's available publically and run the app. The result will be printed as "Hello World!" on the command prompt. 
+1. Pull the container from dockerhub as it's available publically and run the container. The "HelloWorld.jar" app inside the container will be run and the result will be printed as "Hello World!" on the command prompt. 
 
 ![image](https://user-images.githubusercontent.com/26891940/115990001-4f249200-a5c1-11eb-9d3c-e23491a6899b.png)
